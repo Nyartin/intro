@@ -10,4 +10,4 @@ if i forget to update this is because im a failure at working :3 <sub/>
 
 Here the [Chromatics](https://github.com/Nyartin/intro/blob/chromeInTheAtics(chromatics)/README.md) For the FNF mod which barely has anything presentable
 
-And the [Music](github.com/Nyartin/intro/tree/music/fnf) for the mod should be here.
+And the [Music](https://github.com/Nyartin/intro/blob/music/README.md) for the mod should be here.
