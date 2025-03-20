@@ -1,9 +1,9 @@
-# intro
+# Chromatics development
 
 ## current thing is a work in progress
-### Might start working on some updates here, to keep in check how my workflow works (very yes)
+### Here you should see how i work on chromatics and why its something weirdly easy and terribly hard
+<sub>frfr<sub/>
 
-lmk if you read this lol
+The documentation should have how each of the folders work idk tho
 
-<sub>this place will be updated soon!
-if i forget to update this is because im a failure at working :3 <sub/>
+<sub>this place is my current working focus<sub/>
