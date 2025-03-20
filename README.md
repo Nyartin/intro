@@ -8,6 +8,6 @@ lmk if you read this lol
 <sub>this place will be updated soon!
 if i forget to update this is because im a failure at working :3 <sub/>
 
-Here the [Chromatics](Nyartin/intro/tree/chromeInTheAtics(chromatics)) For the FNF mod which barely has anything presentable
+Here the [Chromatics](gitcub.com/Nyartin/intro/tree/chromeInTheAtics(chromatics)) For the FNF mod which barely has anything presentable
 
-And the [Music](Nyartin/intro/tree/music/fnf) for the mod should be here.
+And the [Music](github.com/Nyartin/intro/tree/music/fnf) for the mod should be here.
