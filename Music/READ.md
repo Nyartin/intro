@@ -9,4 +9,3 @@ Here the [Chromatics](https://github.com/Nyartin/intro/blob/chromeInTheAtics(chr
 And the [Music(youre here)](https://github.com/Nyartin/intro/blob/music/README.md) for the mod should be here.
 
 
-https://tinyurl.com/2a4qeejw
